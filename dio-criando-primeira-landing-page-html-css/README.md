@@ -1,4 +1,4 @@
-<h1 align="center">📌 <b>Landing Page Formação CSS Developer DIO</b></h1>
+<h1 align="center"> <b>Landing Page Formação CSS Developer DIO</b></h1>
 
 Projeto consiste em construir uma Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS, as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas.
 
@@ -8,15 +8,15 @@ Projeto consiste em construir uma Landing Page com HTML e CSS, colocando em prá
 
 <br>
 
-## 📎 **Índice**
-- ⭐ Funcionalidades
-- 📂 Temas
-- 🏆 Desafio
+##  **Índice**
+-  Funcionalidades
+-  Temas
+-  Desafio
 
 
 <br>
 
-## ⭐ **Funcionalidades**
+##  **Funcionalidades**
 
 - Botões interativos
 - Utilização do hover para efeitos de sombra
@@ -27,7 +27,7 @@ Projeto consiste em construir uma Landing Page com HTML e CSS, colocando em prá
 
 <br>
 
-## 📂 **Temas**
+##  **Temas**
 
 Recursos CSS presentes no projeto:
 
@@ -40,7 +40,7 @@ Recursos CSS presentes no projeto:
 
 <br>
 
-## 🏆 **Desafio**
+##  **Desafio**
 Aplicar os fundamentos do CSS para construção da landing page e implementar as features apresentadas com os temas abordados descritos, respeitando sempre as boas práticas de desenvolvimento.
 
 <br>
